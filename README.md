@@ -1,4 +1,4 @@
-# RAG Search Bot
+# AB Testing Bot
 
 A prompt A/B testing mini-app using Node.js, OpenAI, Next.js
 
