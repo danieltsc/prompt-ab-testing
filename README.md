@@ -2,11 +2,11 @@
 
 A prompt A/B testing mini-app using Node.js, OpenAI, Next.js
 
-## Overview
+## Overview 
 
 This project allows users to:
 
-- Create test cases
+- Create test cases 
 - Create different prompt variants
 - Do A/B testing with different variants for all test cases and compare the results
 
